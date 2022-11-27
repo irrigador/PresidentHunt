@@ -33,7 +33,7 @@ button.addEventListener('click',function(){
                 blood.style.display = 'none'
             },500)
             score++
-            button.innerHTML = "Score "+score
+            button.innerHTML = "Matou "+score
             shot.play();
             
         }
